@@ -44,11 +44,11 @@ This project also serves as a **learning and portfolio project**, showcasing how
 ## ⚡ Getting Started (Frontend)
 
 ```bash
-# Go to frontend
+
 cd frontend
 
-# Install dependencies
+
 npm install
 
-# Run development server
+
 npm run dev
