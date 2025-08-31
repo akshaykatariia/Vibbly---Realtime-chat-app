@@ -46,9 +46,5 @@ This project also serves as a **learning and portfolio project**, showcasing how
 ```bash
 
 cd frontend
-
-
 npm install
-
-
 npm run dev
